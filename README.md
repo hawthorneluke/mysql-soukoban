@@ -17,3 +17,7 @@
  - `./soukoban.sh`
 - Use arrow keys to move
 
+## Add/Edit Maps
+1. Create/Edit map in soukoban database
+- Add map name to soukoban.sh
+
