@@ -21,3 +21,10 @@
 1. Create/Edit map in soukoban database
 - Add map name to soukoban.sh
 
+### Map Legend
+- p - player
+- P - player on top of goal
+- . - goal
+- o - box
+- O - box on top of goal
+
