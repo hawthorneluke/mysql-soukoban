@@ -1,4 +1,4 @@
-# Impletation of the [Soukoban](https://en.wikipedia.org/wiki/Sokoban) game in MySQL
+# Implementation of the [Soukoban](https://en.wikipedia.org/wiki/Sokoban) game in MySQL
 
 ---
 
